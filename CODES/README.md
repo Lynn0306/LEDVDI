@@ -12,12 +12,12 @@ pip install -r requirements.txt
 bash install.sh
 ```
 
-##Get Started
+## Get Started
 
-Download the public available data provided by Pan et al., CVPR 2019 from this [link](https://drive.google.com/file/d/1s-PR7GxpCAIB20hu7F3BlbXdUi4c9UAo/view), and put them to 'dataset/data' file. Use the following matlab command to pre-process the data:
+Download the public available data provided by Pan et al., CVPR 2019 from this [link](https://drive.google.com/file/d/1s-PR7GxpCAIB20hu7F3BlbXdUi4c9UAo/view), and put them to 'datasets/data' file. Use the following matlab command to pre-process the data:
 
 ```
-cd ./dataset/codes
+cd ./datasets/codes
 run run_public.m
 ```
 
