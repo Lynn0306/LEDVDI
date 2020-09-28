@@ -6,6 +6,7 @@
 - python2.7+
 
 **Installation**
+Install the requirements and filter adaptive convolutional (FAC) layer (provided by Zhou et al., ICCV [link](https://github.com/sczhou/STFAN)).
 
 ```
 pip install -r requirements.txt
